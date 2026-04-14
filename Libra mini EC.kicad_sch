@@ -12520,16 +12520,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x18")
-		(at 162.56 172.72 0)
+		(at 162.56 175.26 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "be28e213-688d-44ac-b2ca-a9ab9e6df26a")
 		(property "Reference" "J4"
-			(at 165.1 172.7199 0)
+			(at 165.1 175.2601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12538,7 +12538,7 @@
 			)
 		)
 		(property "Value" "Conn_01x18"
-			(at 165.1 175.2599 0)
+			(at 165.1 172.7201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12547,7 +12547,7 @@
 			)
 		)
 		(property "Footprint" "Connector_FFC-FPC:JUSHUO_AFA07-S18FCA-00_1x18-1MP_P1.0mm_Horizontal"
-			(at 162.56 172.72 0)
+			(at 162.56 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12556,7 +12556,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 172.72 0)
+			(at 162.56 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12565,7 +12565,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 162.56 172.72 0)
+			(at 162.56 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)

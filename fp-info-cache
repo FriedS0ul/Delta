@@ -1,4 +1,4 @@
-27092105129824694
+27093881342407932
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67950,6 +67950,13 @@ ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
 3
 Kicad footprints
 ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
+ StepUp generated footprint
+
+0
+18
+3
+Kicad footprints
+ecs_pad_hybrid_hotswap_1.810
  StepUp generated footprint
 
 0
