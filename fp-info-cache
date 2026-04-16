@@ -1,4 +1,4 @@
-28369102372886445
+28340926366471285
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67851,7 +67851,7 @@ ecs_pad ANSI+ISO Enter
 8
 3
 Kicad footprints
-ecs_pad_0.25U_spaced_no_ring
+ecs_pad_0.25U_spaced
  StepUp generated footprint
 
 0
@@ -67865,27 +67865,6 @@ ecs_pad_1.5_1.25
 6
 3
 Kicad footprints
-ecs_pad_1.5_1.25_hybrid_hotswap
- StepUp generated footprint
-
-0
-18
-3
-Kicad footprints
-ecs_pad_1.5_1.25_hybrid_hotswap_ROT
- StepUp generated footprint
-
-0
-22
-3
-Kicad footprints
-ecs_pad_1.5_1.25_hybrid_hotswap_ROT_v2
- StepUp generated footprint
-
-0
-22
-3
-Kicad footprints
 ecs_pad_1.5_1.25_hybrid_solder
  StepUp generated footprint
 
@@ -67893,18 +67872,11 @@ ecs_pad_1.5_1.25_hybrid_solder
 8
 3
 Kicad footprints
-ecs_pad_1.25U+1.5U
+ecs_pad_1U
  StepUp generated footprint
 
 0
 6
-3
-Kicad footprints
-ecs_pad_1U_hybrid_hotswap
- StepUp generated footprint
-
-0
-12
 3
 Kicad footprints
 ecs_pad_1U_hybrid_hotswap_V2
@@ -67914,49 +67886,21 @@ ecs_pad_1U_hybrid_hotswap_V2
 12
 3
 Kicad footprints
-ecs_pad_1U_hybrid_solder (1)
+ecs_pad_hybrid_hotswap_2.381_V1
  StepUp generated footprint
 
 0
-8
+22
 3
 Kicad footprints
-ecs_pad_1U_no_ring
- StepUp generated footprint
-
-0
-6
-3
-Kicad footprints
-ecs_pad_2U_no_ring_cut
- StepUp generated footprint
-
-0
-6
-3
-Kicad footprints
-ecs_pad_hybrid hotswap_1.25-1_libra_2.286
-
-
-0
-18
-3
-Kicad footprints
-ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
+ecs_pad_hybrid_hotswap_2.381_V1_ROT
  StepUp generated footprint
 
 0
 18
 3
 Kicad footprints
-ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
- StepUp generated footprint
-
-0
-18
-3
-Kicad footprints
-ecs_pad_hybrid_hotswap_1.810
+ecs_pad_hybrid_hotswap_2.381_V2
  StepUp generated footprint
 
 0
@@ -72562,46 +72506,11 @@ ecs_pad_1.5_1.25
 6
 3
 My_footprints
-ecs_pad_1.5_1.25_hybrid_hotswap
- StepUp generated footprint
-
-0
-18
-3
-My_footprints
-ecs_pad_1.5_1.25_hybrid_hotswap_ROT
- StepUp generated footprint
-
-0
-22
-3
-My_footprints
-ecs_pad_1.5_1.25_hybrid_hotswap_ROT_v2
- StepUp generated footprint
-
-0
-22
-3
-My_footprints
 ecs_pad_1.5_1.25_hybrid_solder
  StepUp generated footprint
 
 0
 8
-3
-My_footprints
-ecs_pad_1.25U+1.5U
- StepUp generated footprint
-
-0
-6
-3
-My_footprints
-ecs_pad_1U_hybrid_hotswap
- StepUp generated footprint
-
-0
-12
 3
 My_footprints
 ecs_pad_1U_hybrid_hotswap_V2
@@ -72611,13 +72520,6 @@ ecs_pad_1U_hybrid_hotswap_V2
 12
 3
 My_footprints
-ecs_pad_1U_hybrid_solder
- StepUp generated footprint
-
-0
-8
-3
-My_footprints
 ecs_pad_1U_no_ring
  StepUp generated footprint
 
@@ -72625,35 +72527,21 @@ ecs_pad_1U_no_ring
 6
 3
 My_footprints
-ecs_pad_2U_no_ring_cut
+ecs_pad_hybrid_hotswap_2.381_V1
  StepUp generated footprint
 
 0
-6
+22
 3
 My_footprints
-ecs_pad_hybrid hotswap_1.25-1_libra_2.286
-
-
-0
-18
-3
-My_footprints
-ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
+ecs_pad_hybrid_hotswap_2.381_V1_ROT
  StepUp generated footprint
 
 0
 18
 3
 My_footprints
-ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
- StepUp generated footprint
-
-0
-18
-3
-My_footprints
-ecs_pad_hybrid_hotswap_1.810
+ecs_pad_hybrid_hotswap_2.381_V2
  StepUp generated footprint
 
 0
