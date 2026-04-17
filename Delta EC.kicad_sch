@@ -9976,7 +9976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11018_1x18-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "Connector_FFC-FPC:TE_1-1734839-8_1x18-1MP_P0.5mm_Horizontal"
 			(at 106.68 172.72 0)
 			(effects
 				(font
@@ -12421,7 +12421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11018_1x18-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "Connector_FFC-FPC:TE_1-1734839-8_1x18-1MP_P0.5mm_Horizontal"
 			(at 162.56 172.72 0)
 			(effects
 				(font
